@@ -1,3 +1,3 @@
 # CSharpVirus
-Somewhat Harmless Virus written in c#, uses 100% cpu and sets itself to autorun.
+Somewhat Harmless Virus written in C#, uses 100% cpu and sets itself to autorun.
 Made with Windows Forms
